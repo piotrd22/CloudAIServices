@@ -1,0 +1,5 @@
+rootProject.name = 'translation'
+include 'azure'
+include 'aws'
+include 'deepl'
+
